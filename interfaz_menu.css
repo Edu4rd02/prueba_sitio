@@ -37,7 +37,7 @@ main {
     color: #8EAAF5;
 }
 .btnLetters{
-    background-image: url('/resources/lettersLogo.png');
+    background-image: url('lettersLogo.png');
     background-color: #8EAAF5;
     background-size: 100% 100%; /* Ajusta el tamaño del icono */
     border: none;
@@ -46,7 +46,7 @@ main {
     cursor: pointer;
 }
 .btnNotes{
-    background-image: url('/resources/notepadLogo.png');
+    background-image: url('notepadLogo.png');
     background-color: #8EAAF5;
     background-size: 100% 100%; /* Ajusta el tamaño del icono */
     border: none;
@@ -55,7 +55,7 @@ main {
     cursor: pointer;
 }
 .btnBack{
-    background-image: url('/resources/backImage.png');
+    background-image: url('backImage.png');
     background-color: #F8E48C;
     background-size: 100% 100%; /* Ajusta el tamaño del icono */
     background-repeat: no-repeat;
