@@ -1,0 +1,45 @@
+/* This CSS archive is temporal */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #8EAAF5;
+    text-align: center;
+    color: #FFF2F2;
+    font-family: "Dosis", sans-serif;
+
+}
+
+header {
+    background-color: #F8E48C;
+    color: #8EAAF5;
+    font-weight: 800;
+    font-size: 60px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    margin: 10px 0;
+    text-align: center;
+
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #FFF2F2;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #F8E48C;
+    color: #FFF2F2;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
